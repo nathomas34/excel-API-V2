@@ -147,7 +147,7 @@ npm run preview
 ### Prompts IA
 1. Cliquez sur l'en-tête d'une colonne
 2. Entrez votre prompt dans le champ "Enter prompt..."
-3. Utilisez le bouton ▶️ pour traiter la colonne
+3. Utilisez le bouton ▶️ pour traiter les colonnes
 
 ### Paramètres de l'IA
 - **Température** : Contrôle la créativité (0-2)
