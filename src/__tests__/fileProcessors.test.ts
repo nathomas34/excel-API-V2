@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { processFile, processSpreadsheet, processWord, processPDF } from '../utils/fileProcessors';
+import { processSpreadsheet, processWord, processPDF } from '../utils/fileProcessors';
 
 describe('File Processors', () => {
   it('processes Excel files correctly', async () => {

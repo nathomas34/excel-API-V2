@@ -206,7 +206,8 @@ npm run preview
 ```
 .
 ├── src/
-│   ├── components/     # Composants React
+│   ├── _tests_/       # tests
+│   ├── components/    # Composants React
 │   ├── hooks/         # Hooks personnalisés
 │   ├── i18n/          # Traductions
 │   ├── store/         # Gestion d'état Zustand
